@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/assetSearch/static/css/main.7f7e7ce1.css",
-    "main.js": "/assetSearch/static/js/main.28b28989.js",
+    "main.js": "/assetSearch/static/js/main.2e86187f.js",
     "static/js/47.b2e7b5f9.chunk.js": "/assetSearch/static/js/47.b2e7b5f9.chunk.js",
     "static/media/Faq-background.jpg": "/assetSearch/static/media/Faq-background.21ff3e13fda74094c9d8.jpg",
     "static/media/About-us.jpg": "/assetSearch/static/media/About-us.e226623c4a9f1baeef17.jpg",
@@ -26,11 +26,11 @@
     "index.html": "/assetSearch/index.html",
     "static/media/shape-avatar.svg": "/assetSearch/static/media/shape-avatar.096ea8015d2d14ba4ce707d949a97823.svg",
     "main.7f7e7ce1.css.map": "/assetSearch/static/css/main.7f7e7ce1.css.map",
-    "main.28b28989.js.map": "/assetSearch/static/js/main.28b28989.js.map",
+    "main.2e86187f.js.map": "/assetSearch/static/js/main.2e86187f.js.map",
     "47.b2e7b5f9.chunk.js.map": "/assetSearch/static/js/47.b2e7b5f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7f7e7ce1.css",
-    "static/js/main.28b28989.js"
+    "static/js/main.2e86187f.js"
   ]
 }
