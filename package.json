@@ -3,7 +3,6 @@
   "author": "minimals.cc",
   "licence": "MIT",
   "version": "1.7.0",
-  "homepage": "https://takedemo.com/assetSearch/",
   "private": false,
   "scripts": {
     "start": "react-scripts start",

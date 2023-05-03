@@ -14,7 +14,7 @@ export default function App() {
 
   return (
     <HelmetProvider>
-      <BrowserRouter basename='/assetSearch'>
+      <BrowserRouter>
         <ThemeProvider>
           <Router />
         </ThemeProvider>
